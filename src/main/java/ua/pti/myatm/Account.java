@@ -5,7 +5,7 @@ public interface Account {
     //Возвращает баланс на счете
     public double getBalance();
 
-    //Снимает указанную сумму со счета
+    //Снимает указанную сумму со    счета  
     //Возвращает сумму, которая была снята
     public double withdraw(double amount);
     
